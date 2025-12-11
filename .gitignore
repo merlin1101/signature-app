@@ -44,7 +44,6 @@ tmp/
 *.swo
 
 # Other generated files
-package-lock.json
 yarn.lock
 
 # Copilot
